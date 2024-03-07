@@ -1,7 +1,10 @@
 package SeeAndSay;
 
 import SeeAndSay.AnimalImpl.*;
-
+//<<<<<<< HEAD
+//
+//=======
+//>>>>>>> 00202732d598e0c96dde3173d06265429f351566
 
 import java.util.Collections;
 import java.util.LinkedList;
@@ -32,8 +35,8 @@ public class AnimalListMaker {
 		//animalList.add(new is1145345());
 		//animalList.add(new jos129715());
 		//animalList.add(new ko1168371());
-		//animalList.add(new lu1127103());
-		//animalList.add(new mi1156959());
+		animalList.add(new lu1127103());
+		animalList.add(new mi1156959());
 		//animalList.add(new mu1022394());
 		//animalList.add(new pa1157971());
 		//animalList.add(new sa1153877());
@@ -41,7 +44,7 @@ public class AnimalListMaker {
 		//animalList.add(new shf913514());
 		//animalList.add(new th1151057());
 		//animalList.add(new til864760());
-		//animalList.add(new ur1124787());
+		animalList.add(new ur1124787());
 		//animalList.add(new vi1085322());
 
 
